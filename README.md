@@ -15,8 +15,15 @@ The easiest way is to open the notebook in Google Colab:
 [![Open In Colab](https://colab.research.google.com/drive/10tAEyPBPaLfZZNmMueTSKTLXYXgqGv0o?usp=sharing)]
 
 ## Example
-Input: I feel completely lost and scared.
-Detected emotion: Fear
-Output: That's common, but you don't have to keep feeling that way. Here are some things you can do to help calm your nerves and start moving forward. 1. Practice deep breathing. Take slow, deep breaths in through your nose for about 4 seconds, hold your breath for 8-10 seconds, and then exhale slowly out through your mouth for another 6-7 seconds.
 
-Note: Some responses may be cut off if the max_new_tokens parameter is set too low. Increasing this value will allow longer replies.
+**Input:** I feel completely lost and scared.  
+
+**Detected emotion:** Fear  
+
+**Output:** That's common, but you don't have to keep feeling that way. Here are some things you can do to help calm your nerves and start moving forward.  
+1. Practice deep breathing. Take slow, deep breaths in through your nose for about 4 seconds, hold your breath for 8–10 seconds, and then exhale slowly out through your mouth for another 6–7 seconds.  
+
+---
+
+**Note:** Some responses may be cut off if the `max_new_tokens` parameter is set too low. Increasing this value will allow longer replies.
+
