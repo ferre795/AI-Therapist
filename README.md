@@ -12,7 +12,8 @@ The idea is to detect a user’s emotion from text, then feed that into a chatbo
 ## How to run
 The easiest way is to open the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/drive/10tAEyPBPaLfZZNmMueTSKTLXYXgqGv0o?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10tAEyPBPaLfZZNmMueTSKTLXYXgqGv0o?usp=sharing)
+
 
 ## Example
 
